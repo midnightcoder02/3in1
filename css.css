@@ -1,0 +1,72 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    align-items: center;
+    color: greenyellow;
+    font-size: 200px;
+    font-style: italic;
+}
+
+h2 {
+    font-size: 50px;
+    color: blanchedalmond;
+
+}
+
+
+.main {
+    height: 800px;
+    
+    border-radius: 50px;
+    margin-left: 300px;
+
+h3 {
+        font-size: 100px;
+        color: orchid;
+    
+}
+    
+
+.python {
+    width: 700px;
+    border-radius: 60px;
+}
+
+h4 {
+    font-size: 150px;
+    color: orchid;
+}
+
+h5 {
+    font-size: 100px ;
+    color:orchid ;
+}
+
+.web {
+    width: 700px;
+    border-radius: 60px;
+    margin-left: 300px
+
+6 {
+    font-size: 100px ;
+    color:orchid ;
+}
+
+.flutter {
+    width: 700px;
+    border-radius: 60px;
+    margin-right: 300px
+
+}
+
+button {
+    color: white;
+    background-color: red;
+    border: none;
+    width: 200px;
+    height: 150px;
+    font-size: 30px;
+    border-radius: ;
+}
